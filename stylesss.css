@@ -1,0 +1,52 @@
+/* Paste in code from your old files to save time and avoid typos! */
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black');
+body {
+	height: 100vh;
+	width: 100vw;
+	display:block;
+}
+
+.row-1 {
+	height: 10vh;
+	width: 100vw;
+	background-color:red;
+	text-align:center;
+	font-family:'Archivo Black', sans-serif;
+	font:50px;
+}
+
+.row-2 {
+	height: 50vh;
+	width: 100vw;
+	display: flex;
+	
+}
+.row-3 {
+	height:40vh;
+	width:100vw;
+	background-color:black;
+}
+.white{
+	background-color:white;
+	height: 100%;
+	width: 10%;
+}
+.black{
+	background-color:black;
+	height:100%;
+	width:5%;
+}
+
+
+
+
+@media screen and (max-width: 800px){
+	.column-1{
+		height: 50vh;
+		width: 100vw;
+	}
+	.column-2{
+		height: 50vh;
+		width: 100vw;
+	}
+}
