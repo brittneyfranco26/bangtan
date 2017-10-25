@@ -9,7 +9,7 @@ body {
 .row-1 {
 	height: 10vh;
 	width: 100vw;
-	background-color:red;
+	background-color:black;
 	text-align:center;
 	color:white;
 	font-family:'Archivo Black', sans-serif;
@@ -45,7 +45,7 @@ body {
 	.row-1 {/*dont touch this except for the colors*/
 	height: 8vh;
 	width: 100vw;
-	background-color:red;
+	background-color:black;
 	text-align:center;
 	color:white;
 	font-family:'Archivo Black', sans-serif;
