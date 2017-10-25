@@ -41,12 +41,35 @@ body {
 
 
 @media screen and (max-width: 800px){
-	.column-1{
-		height: 50vh;
-		width: 100vw;
+	.row-1 {/*dont touch this except for the colors*/
+	height: 8vh;
+	width: 100vw;
+	background-color:red;
+	text-align:center;
+	font-family:'Archivo Black', sans-serif;
+	font:50px;
 	}
-	.column-2{
-		height: 50vh;
-		width: 100vw;
+
+	.row-2 {
+	height: 60vh;
+	width: 100vw;
+	display:inline-block;
+	
+	}
+	.row-3 {
+	height:30vh;
+	width:100vw;
+	background-color:black;
+	}
+	.white{
+	background-color:white;
+	height: 20%;
+	width: 100%;
+	
+	}
+	.black{
+	background-color:black;
+	height:01%;
+	width:100%;
 	}
 }
