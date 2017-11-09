@@ -4,6 +4,7 @@ body {
 	height: 100vh;
 	width: 100vw;
 	display:block;
+	margin:0;
 }
 
 .row-1 {
@@ -37,10 +38,82 @@ body {
 	height:100%;
 	width:5%;
 }
+.black1{
+	background-color:black;
+	height:100%;
+	width:5%;
+}
+.white1{
+	background-color:white;
+	height: 100%;
+	width: 10%;
+}
 
-
-
-
+.black2{
+	background-color:black;
+	height:100%;
+	width:5%;
+}
+.white2{
+	background-color:white;
+	height:100%;
+	width:10%;
+}
+.white3{
+	background-color:white;
+	height:100%;
+	width:10%;
+}
+.black3{
+	background-color:black;
+	height:100%;
+	width:5%;
+}
+.white4{
+	background-color:white;
+	height:100%;
+	width:10%;
+}
+.black4{
+	background-color:black;
+	height:100%;
+	width:5%;
+}
+.white5{
+	background-color:white;
+	height:100%;
+	width:10%
+}
+.black5{
+	background-color:black;
+	height:100%;
+	width:5%;
+}
+.white6{
+	background-color:white;
+	height:100%;
+	width:10%;
+}
+.black6{
+	background-color:black;
+	height:100%;
+	width:5%
+}
+.white7{
+	background-color:white;
+	height:100%;
+	width:10%;
+}
+.black7{
+	background-color:black;
+	height:100%;
+	width:5%;
+}
+.black8{
+	background-color:black;
+	height:100%;
+	width:5%;
+}
 @media screen and (max-width: 800px){
 	.row-1 {/*dont touch this except for the colors*/
 	height: 8vh;
@@ -63,15 +136,85 @@ body {
 	width:100vw;
 	background-color:black;
 	}
-	.white{
+	.white1{
 	background-color:white;
-	height: 20%;
+	height: 30%;
 	width: 100%;
 	
 	}
-	.black{
+	.black1{
 	background-color:black;
-	height:01%;
+	height:02%;
 	width:100%;
 	}
-}
+	.white2{
+	background-color:white;
+	height: 30%;
+	width: 100%;
+	
+	}
+	.black2{
+	background-color:black;
+	height:02%;
+	width:100%;
+	}
+	.white3{
+	background-color:white;
+	height: 30%;
+	width: 100%;
+	
+	}
+	.black3{
+	background-color:black;
+	height:02%;
+	width:100%;
+	}
+	.white4{
+	background-color:white;
+	height: 30%;
+	width: 100%;
+	
+	}
+	.black4{
+	background-color:black;
+	height:02%;
+	width:100%;
+	}
+	.white5{
+	background-color:white;
+	height: 30%;
+	width: 100%;
+	
+	}
+	.black5{
+	background-color:black;
+	height:02%;
+	width:100%;
+	}
+	.white6{
+	background-color:white;
+	height: 30%;
+	width: 100%;
+	
+	}
+	.black6{
+	background-color:black;
+	height:02%;
+	width:100%;
+	}
+	.white7{
+	background-color:white;
+	height: 30%;
+	width: 100%;
+	
+	}
+	.black7{
+	background-color:black;
+	height:02%;
+	width:100%;
+	}
+	.black8{
+	background-color:black;
+	height:02%;
+	width:100%;
+	}
