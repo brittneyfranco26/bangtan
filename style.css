@@ -137,7 +137,9 @@ img{
 	.white1{
 	height: 30%;
 	width: 100%;
-	
+	}
+	.white1 img{
+		content:url(https://ih0.redbubble.net/image.316906399.0144/ap,550x550,12x12,1,transparent,t.u4.png);
 	}
 	.black1{
 	background-color:black;
