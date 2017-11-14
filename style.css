@@ -4,7 +4,7 @@ body {
 	height: 100vh;
 	width: 100vw;
 	display:block;
-	margin:0;
+	
 }
 
 .row-1 {
@@ -39,8 +39,11 @@ body {
 	width: 10%;
 }
 img{
+	margin:auto;
 	max-width:100%;
 	max-height:100%;
+	width:auto;
+	height:auto;
 }
 .black2{
 	background-color:black;
@@ -131,15 +134,20 @@ img{
 	background-color:black;
 	}
 	img{
-	max-width:100%;
+	display:block;
+	margin:auto;
 	max-height:100%;
+	max-width:100%;
+	width:auto;
+	height:auto;
 	}
 	.white1{
 	height: 30%;
 	width: 100%;
+	
 	}
 	.white1 img{
-		content:url(https://avatanplus.com/files/resources/mid/58050dd0dc166157d3bdf805.png);
+		content:url(https://78.media.tumblr.com/3badd65e6decf4624c84f93578b48317/tumblr_or4dwiEJip1u3gvxdo1_500.png);
 	}
 	.black1{
 	background-color:black;
@@ -147,10 +155,12 @@ img{
 	width:100%;
 	}
 	.white2{
-	background-color:white;
-	height: 30%;
-	width: 100%;
-	
+		background-color:white;
+		height:30%;
+		width:100%;
+	}
+	.white2{
+		content:url(https://avatanplus.com/files/resources/mid/5839f3c67ab96158a2603f67.png);
 	}
 	.black2{
 	background-color:black;
@@ -163,6 +173,9 @@ img{
 	width: 100%;
 	
 	}
+	.white3 img{
+		content: url(https://ih0.redbubble.net/image.316906399.0144/ap,550x550,12x12,1,transparent,t.u4.png)
+	}
 	.black3{
 	background-color:black;
 	height:02%;
@@ -173,6 +186,9 @@ img{
 	height: 30%;
 	width: 100%;
 	
+	}
+	.white4 img{
+		content:url(https://thegoodthebadthebias.weebly.com/uploads/8/6/6/1/86618066/tumblr-o0hxb4bhrc1umg119o4-250.png)
 	}
 	.black4{
 	background-color:black;
@@ -185,6 +201,9 @@ img{
 	width: 100%;
 	
 	}
+	.white5 img{
+		content: url(https://avatanplus.com/files/resources/mid/583de105994af158b1b6fdfc.png);
+	}
 	.black5{
 	background-color:black;
 	height:02%;
@@ -196,6 +215,9 @@ img{
 	width: 100%;
 	
 	}
+	.white6 img{
+		content: url(https://avatanplus.com/files/resources/mid/583c7d8d9f4e7158ac4a7155.png);
+	}
 	.black6{
 	background-color:black;
 	height:02%;
@@ -206,6 +228,9 @@ img{
 	height: 30%;
 	width: 100%;
 	
+	}
+	.white7 img{
+		content: url(https://avatanplus.com/files/resources/mid/583c7e0f840ff158ac4c6cb5.png);
 	}
 	.black7{
 	background-color:black;
