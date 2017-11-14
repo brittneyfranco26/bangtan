@@ -148,6 +148,8 @@ img{
 	}
 	.white1 img{
 		content:url(https://78.media.tumblr.com/3badd65e6decf4624c84f93578b48317/tumblr_or4dwiEJip1u3gvxdo1_500.png);
+		width:50%;
+		margin-left:120px;
 	}
 	.black1{
 	background-color:black;
