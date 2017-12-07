@@ -21,14 +21,14 @@ function playV(elem){
 	document.getElementById("first-love").pause();
 }
 function pauseV(elem){
-	document.getElementById("stigma").pause()
+	document.getElementById("stigma").pause();
 }
 function playKookie(elem){
-	document.getElementById("begin").play()
-	document.getElementById("stigma").pause()
-	document.getElementById("first-love").pause()
+	document.getElementById("begin").play();
+	document.getElementById("stigma").pause();
+	document.getElementById("first-love").pause();
 }
 function pauseKookie(elem){
-	document.getElementById("begin").pause()
+	document.getElementById("begin").pause();
 	
 }
