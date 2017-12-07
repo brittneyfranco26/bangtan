@@ -24,11 +24,11 @@ function pauseV(elem){
 	document.getElementById("stigma").pause()
 }
 function playKookie(elem){
-	documen.getElementById("begin").play()
+	document.getElementById("begin").play()
 	document.getElementById("stigma").pause()
 	document.getElementById("first-love").pause()
 }
 function pauseKookie(elem){
-	documen.getElementById("begin").pause()
+	document.getElementById("begin").pause()
 	
 }
