@@ -7,7 +7,7 @@ function addV(elem){
 	elem.innerHTML= "V"
 }
 function addKookie(elem){
-	document.getElementById("textbox").classList.toggle("jk"
+	document.getElementById("textbox").classList.toggle("jk");
 }
 function playSuga(elem){
 	document.getElementById("first-love").play();
@@ -29,5 +29,6 @@ function playKookie(elem){
 	document.getElementById("first-love").pause()
 }
 function pauseKookie(elem){
-	documen.getElementById("begin").play()
+	documen.getElementById("begin").pause()
+	
 }
