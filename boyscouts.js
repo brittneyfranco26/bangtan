@@ -1,10 +1,10 @@
 function addSuga(elem){
 	document.getElementById("textbox").classList.toggle("suga");
-	elem.innerHTML = "Suga";
+	
 }
 function addV(elem){
 	document.getElementById("textbox").classList.toggle("V");
-	elem.innerHTML= "V"
+	
 }
 function addKookie(elem){
 	document.getElementById("textbox").classList.toggle("jk");
