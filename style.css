@@ -134,9 +134,14 @@ img{
 	height:100%;
 	
 }
-img:hover {
-	opacity: 0.8;}
 
+.jk{
+	background-image:url(https://pa1.narvii.com/6211/db8e80604aa3d5f2cad9e38d1c1ed10325475667_hq.gif);
+	width:100%;
+	height:100%;
+}
+img:hover {
+	opacity: 0.9;}
 @media screen and (max-width: 800px){
 	.row-1 {/*dont touch this except for the colors*/
 	height: 8vh;
