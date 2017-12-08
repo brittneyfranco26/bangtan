@@ -78,7 +78,7 @@ function playJin(elem){
 	document.getElementById("lie").pause();
 	document.getElementById("mama").pause();
 	document.getElementById("reflection").pause();
-	document.getELementById("begin").pause();
+	document.getElementById("begin").pause();
 	document.getElementById("first-love").pause();
 	document.getElementById("stigma").pause();
 	
