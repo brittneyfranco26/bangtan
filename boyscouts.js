@@ -62,7 +62,7 @@ function pauseKookie(elem){
 }
 function playRm(elem){
 	document.getElementById("reflection").play();
-	document.getELementById("begin").pause();
+	document.getElementById("begin").pause();
 	document.getElementById("first-love").pause();
 	document.getElementById("stigma").pause();
 	document.getElementById("mama").pause();
