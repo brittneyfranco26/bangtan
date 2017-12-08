@@ -24,6 +24,7 @@ function addJimin(elem){
 function playSuga(elem){
 	document.getElementById("first-love").play();
 	document.getElementById("stigma").pause();
+	document.getElementById("begin").pause();
 	
 }
 function pauseSuga(elem){
@@ -33,6 +34,7 @@ function pauseSuga(elem){
 function playV(elem){
 	document.getElementById("stigma").play();
 	document.getElementById("first-love").pause();
+	document.getElementById("begin").pause();
 	
 	
 }
