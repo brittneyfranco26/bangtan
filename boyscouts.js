@@ -25,7 +25,10 @@ function playSuga(elem){
 	document.getElementById("first-love").play();
 	document.getElementById("stigma").pause();
 	document.getElementById("begin").pause();
-	
+	document.getElementById("reflection").pause();
+	document.getElementById("lie").pause();
+	document.getElementById("awake").pause();
+	document.getElementById("mama").pause();	
 }
 function pauseSuga(elem){
 	document.getElementById("first-love").pause();
@@ -35,6 +38,10 @@ function playV(elem){
 	document.getElementById("stigma").play();
 	document.getElementById("first-love").pause();
 	document.getElementById("begin").pause();
+	document.getElementById("reflection").pause();
+	document.getElementById("lie").pause();
+	document.getElementById("awake").pause();
+	document.getElementById("mama").pause();	
 	
 	
 }
@@ -46,6 +53,9 @@ function playKookie(elem){
 	document.getElementById("first-love").pause();
 	document.getElementById("stigma").pause();
 	document.getElementById("reflection").pause();
+	document.getElementById("lie").pause();
+	document.getElementById("awake").pause();
+	document.getElementById("mama").pause();
 }
 function pauseKookie(elem){
 	document.getElementById("begin").pause();
@@ -55,14 +65,49 @@ function playRm(elem){
 	document.getELementById("begin").pause();
 	document.getElementById("first-love").pause();
 	document.getElementById("stigma").pause();
+	document.getElementById("mama").pause();
+	document.getElementById("awake").pause();
+	document.getElementById("lie").pause();	
 }
 function pauseRm(elem){
 	document.getElementById("reflection").pause();
 	
 }
+function playJin(elem){
+	document.getElementById("awake").play();
+	document.getElementById("lie").pause();
+	document.getElementById("mama").pause();
+	document.getElementById("reflection").pause();
+	document.getELementById("begin").pause();
+	document.getElementById("first-love").pause();
+	document.getElementById("stigma").pause();
+	
+}
+function pauseJin(elem){
+	document.getElementById("awake").pause();
+}
 function playHobi(elem){
 	document.getElementById("mama").play();
+	document.getElementById("reflection").pause();
+	document.getELementById("begin").pause();
+	document.getElementById("first-love").pause();
+	document.getElementById("stigma").pause();
+	document.getElementById("lie").pause();
+	document.getElementById("awake").pause();
+	
 }
 function pauseHobi(elem){
 	document.getElementById("mama").pause();
+}
+function playJimin(elem){
+	document.getElementById("lie").play();
+	document.getElementById("mama").pause();
+	document.getElementById("reflection").pause();
+	document.getELementById("begin").pause();
+	document.getElementById("first-love").pause();
+	document.getElementById("stigma").pause();
+	document.getElementById("awake").pause();
+}
+function pauseJimin(elem){
+	document.getElementById("lie").pause();
 }
