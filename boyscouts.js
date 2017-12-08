@@ -89,7 +89,7 @@ function pauseJin(elem){
 function playHobi(elem){
 	document.getElementById("mama").play();
 	document.getElementById("reflection").pause();
-	document.getELementById("begin").pause();
+	document.getElementById("begin").pause();
 	document.getElementById("first-love").pause();
 	document.getElementById("stigma").pause();
 	document.getElementById("lie").pause();
@@ -103,7 +103,7 @@ function playJimin(elem){
 	document.getElementById("lie").play();
 	document.getElementById("mama").pause();
 	document.getElementById("reflection").pause();
-	document.getELementById("begin").pause();
+	document.getElementById("begin").pause();
 	document.getElementById("first-love").pause();
 	document.getElementById("stigma").pause();
 	document.getElementById("awake").pause();
