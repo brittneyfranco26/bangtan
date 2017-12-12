@@ -214,7 +214,7 @@ img:hover {
 	.white2{
 		content:url(https://78.media.tumblr.com/6473cf6f6743de52829a2c0767a98a12/tumblr_oajjnjy1Ni1vaqbvyo1_1280.png);
 		width:50%;
-		margin-left:120px;
+		margin:auto;
 	}
 	.black2{
 	background-color:black;
