@@ -33,13 +33,7 @@ body {
 	font-family:'Archivo Black', sans-serif;
 	font:50px;
 }
-}
 
-.blackone{
-	background-color:black;
-	height:100%;
-	width:5%;
-}
 .white1{
 	height: 100%;
 	width: 10%;
@@ -51,6 +45,8 @@ img{
 	width:auto;
 	height:auto;
 }
+img:hover {
+	opacity: 0.8;}
 .black2{
 	background-color:black;
 	height:100%;
@@ -129,14 +125,12 @@ img{
 }
 .V{
 	background-image:url(https://i.pinimg.com/originals/83/06/e8/8306e831ea90fff52cad0b6c5e11b87a.gif);
-	font-size:100%;
 	width:100%;
 	height:100%;
 	
 }
 .jk{
 	background-image:url(https://3.bp.blogspot.com/-92u8wOQNdvw/V82whJ7zkqI/AAAAAAAAEOg/yLkRL6wo42Ix1lEelUGWB1nx7J73vSFWgCLcB/s1600/1stvideo15.gif);
-	font-size:100px;
 	width:100%;
 	height:100%;
 	
@@ -161,9 +155,12 @@ img{
 	width:100%;
 	height:100%;
 }
-img:hover {
-	opacity: 0.8;}
-visibility: visible|hidden|collapse|initial|inherit;
+.blackone{
+	background-color:black;
+	height:100%;
+	width:5%;
+}
+
 
 
 @media screen and (max-width: 800px){
@@ -204,7 +201,7 @@ visibility: visible|hidden|collapse|initial|inherit;
 	.white1 img{
 		content:url(https://78.media.tumblr.com/3badd65e6decf4624c84f93578b48317/tumblr_or4dwiEJip1u3gvxdo1_500.png);
 	}
-	.black1{
+	.blackone{
 	background-color:black;
 	height:02%;
 	width:100%;
@@ -282,12 +279,12 @@ visibility: visible|hidden|collapse|initial|inherit;
 	}
 	.white7{
 	background-color:white;
-	height: 30%;
-	width: 100%;
+	height:30%;
+	width:100%;
 	
 	}
 	.white7 img{
-		content: url(https://avatanplus.com/files/resources/mid/583c7e0f840ff158ac4c6cb5.png);
+	content: url(https://avatanplus.com/files/resources/mid/583c7e0f840ff158ac4c6cb5.png);
 	}
 	.black7{
 	background-color:black;
